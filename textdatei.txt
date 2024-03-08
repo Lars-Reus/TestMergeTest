@@ -1,9 +1,6 @@
 test mainbranch
 mit änderungen aus Ticket1
 
-
-Änderung an Ticket dioe 2.
-Änderung die 3.
-
 Änderung in Ticket 2
+noch eine Änderung in Ticket 2
 
